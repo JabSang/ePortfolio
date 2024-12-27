@@ -1,49 +1,70 @@
 # ePortfolio
 
-Welcome to my **ePortfolio**! This project highlights my work, personal details, and ways to connect with me.
+Welcome to my **ePortfolio** repository! This project highlights my work, personal details, and ways to connect with me. It serves as a platform to showcase my skills and projects in an organized and interactive way.
 
-## Table of Contents
+## Description
 
-- [Overview](#overview)
-- [Projects](#projects)
-- [About Me](#about-me)
-- [Contact](#contact)
+This ePortfolio is a personal website designed to present my professional and academic journey. It includes:
 
-## Overview
+- A collection of my projects with descriptions and links.
+- Basic details about me, including education, skills, and interests.
+- Contact information for networking or collaboration.
 
-The ePortfolio is a collection of my projects and basic personal details. It serves as a platform to showcase my skills and provide an easy way to get in touch.
+## Technologies Used
 
-## Projects
+This project is built using:
 
-Here are some of the key projects I've worked on:
+- **HTML5**: Structuring the content of the website.
+- **CSS3**: Styling the website for an appealing design.
+- **JavaScript**: Adding interactivity to the site.
 
-1. **PetAdoptionWebsite**  
-   - Description: A basic not-so-functional pet adoption website
-   - Link: https://github.com/JabSang/PetAdoptionWebsite
+## Instructions for Replication or Contribution
 
-2. **USTP-SelfResearch**  
-   - Description: Contains basic research on algorithms and programming limited on my schooling days
-   - Link: https://github.com/JabSang/USTP-SelfResearch
+If you'd like to replicate this project or contribute to its development, follow these steps:
 
-3. **USTP-SchoolLearnings**  
-   - Description: Contains some school activities and programming on my schooling days
-   - Link: https://github.com/JabSang/USTP-School-Learnings
+### Replication
 
-## About Me
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/JabSang/ePortfolio.git
+   ```
 
-I am Jaber A. Sangcopan, a Computer Science Student. Here are some quick details about me:
+2. **Navigate to the Project Directory**
+   ```bash
+   cd ePortfolio
+   ```
 
-- Education: Junior Computer Science Student
-- Interests: Fiction Light Novels and Music
-- Skills: Basic Networking and Basic Front-End Development
+3. **Open the Website Locally**
+   Open the `index.html` file in your browser to view the website.
 
-## Contact
+### Contribution
 
-Feel free to reach out to me via:
+1. **Fork the Repository**
+   Click the "Fork" button on the repository's GitHub page to create a copy under your account.
 
-- Email: sangcopan.jaber000@gmail.com
-- GitHub: https://github.com/JabSang
+2. **Clone Your Fork**
+   ```bash
+   git clone https://github.com/your-username/ePortfolio.git
+   ```
+
+3. **Create a New Branch**
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. **Make Your Changes**
+   Add or update the code as needed.
+
+5. **Commit and Push Your Changes**
+   ```bash
+   git add .
+   git commit -m "Add your feature or fix description"
+   git push origin feature/your-feature-name
+   ```
+
+6. **Submit a Pull Request**
+   Go to the original repository and submit a pull request describing your changes.
 
 ---
 
-Thank you for exploring my ePortfolio! Feedback is always welcome.
+Thank you for exploring my ePortfolio! Feel free to connect or contribute to make it even better.
